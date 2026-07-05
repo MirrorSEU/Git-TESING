@@ -1,3 +1,4 @@
 Just Need Remote to pull this file to local!
 
-Test for Confict - From Local Change!
+
+Test for Conflict - From Server Change!
